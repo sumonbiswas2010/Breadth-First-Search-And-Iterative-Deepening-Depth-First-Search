@@ -1,4 +1,4 @@
-# Breadth First Search And Iterative Deepening Depth-First Search
+# Breadth-First Search And Iterative Deepening Depth-First Search
 Problem: Solving the 15-puzzle with uninformed search algorithms (Breadth First Search and Iterative deepening depth-first)
 
  Initial state: (an easy case)
